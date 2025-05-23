@@ -1,25 +1,52 @@
-# 👋 Halo, Saya Bayu Saputra
+# 👋 Hello, I'm Bayu Saputra
 
-Seorang **[Developer Web / Mobile / Data / dll]** dari **[Lokasi]** 📍  
-Suka dengan **JavaScript, Python, Machine Learning, dll**  
+A **Fullstack Web & Mobile Developer** from **Indonesia** 🇮🇩  
+Passionate about building web platforms, mobile apps, and diving into data analysis.  
 
-## 📊 Aktivitas Terakhir:
-<!-- Activity Graph -->
+## 📊 GitHub Stats
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=bayusptrshop&theme=onedark )
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayusptrshop&show_icons=true&theme=radical )
 
-## 🧩 Skill & Tools
-- 💻 Pemrograman: `Python`, `JavaScript`, `Go`
-- 📦 Framework: `React`, `Django`, `Flutter`
-- 🔍 Tools: `Git`, `Docker`, `Postman`
+## 💼 Experience & Projects
 
-## 🛠️ Proyek Favorit
-### 1. [Nama Proyek](https://github.com/username/project )
-Deskripsi singkat tentang proyek tersebut.
+### 🏥 Pharmacy Administration System (PHP Native)  
+Built a full system for managing pharmacy operations including inventory, sales, and reports.
 
-### 2. [Proyek Lain](https://github.com/username/project2 )
-Deskripsi singkat tentang proyek ini juga.
+### 🎓 Online Course Application  
+Developed a platform connecting students and teachers, similar to Udemy, with course management, payments, and user roles.
 
-## 🌐 Media Sosial
-- 🐦 Twitter: [@username](https://twitter.com/username )
-- 💼 LinkedIn: [profile](https://linkedin.com/in/username )
-- 🕸️ Blog: [blog.kamu.com](https://blog.kamu.com )
+### 🌐 Automated Website & Game Top-up Platform (In Development)  
+Currently developing a SaaS-like platform where users can create websites and game top-up systems with custom styling via admin dashboard. Also includes APK/iOS build functionality.
+
+### 🧠 Sentiment Analysis Model using RoBERTa  
+Trained a sentiment classification model on Amazon Software Reviews dataset to detect positive/negative comments.
+
+### 🏫 SchoolTech - Backend Developer  
+Worked as backend developer for an e-learning school system that manages courses, student progress, and digital resources.
+
+## 🧩 Skills & Tools
+
+- **Languages**: JavaScript, TypeScript, Python, PHP  
+- **Frameworks**: Angular, Vue.js, Laravel, Ionic  
+- **Tools**: Git, Docker, VS Code, RESTful API  
+
+## 🛠️ Proyek Favorit / Favorite Projects
+
+### 1. [Online Course Platform](https://github.com/bayusptrshop/course-platform )
+A full-stack application for online learning with real-time interaction between students and tutors.
+
+### 2. [Sentiment Analysis - RoBERTa](https://github.com/bayusptrshop/sentiment-analysis-roberta )
+Python-based project using HuggingFace Transformers to analyze Amazon review sentiments.
+
+> More projects coming soon!
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bayu-saputra-321113245/ )
+- 📧 Email: [bayusaputra250004@gmail.com](mailto:bayusaputra250004@gmail.com)
+- 📸 Instagram: [@abay_sptrr](https://instagram.com/abay_sptrr )
+
+---
+
+Made with ❤️ in Indonesia
