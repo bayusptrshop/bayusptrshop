@@ -5,7 +5,7 @@ Suka dengan **JavaScript, Python, Machine Learning, dll**
 
 ## 📊 Aktivitas Terakhir:
 <!-- Activity Graph -->
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=bayusptrshop&theme=onedark )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayusptrshop&show_icons=true&theme=radical )
 
 ## 🧩 Skill & Tools
 - 💻 Pemrograman: `Python`, `JavaScript`, `Go`
