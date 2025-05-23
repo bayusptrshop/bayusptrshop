@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Halo, Saya Bayu Saputra
 
-<!--
-**bayusptrshop/bayusptrshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang **[Developer Web / Mobile / Data / dll]** dari **[Lokasi]** 📍  
+Suka dengan **JavaScript, Python, Machine Learning, dll**  
 
-Here are some ideas to get you started:
+## 📊 Aktivitas Terakhir:
+<!-- Activity Graph -->
+![Activity Chart](https://ghchart.rshaiq.com/github/ ${username}?size=medium)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Skill & Tools
+- 💻 Pemrograman: `Python`, `JavaScript`, `Go`
+- 📦 Framework: `React`, `Django`, `Flutter`
+- 🔍 Tools: `Git`, `Docker`, `Postman`
+
+## 🛠️ Proyek Favorit
+### 1. [Nama Proyek](https://github.com/username/project )
+Deskripsi singkat tentang proyek tersebut.
+
+### 2. [Proyek Lain](https://github.com/username/project2 )
+Deskripsi singkat tentang proyek ini juga.
+
+## 🌐 Media Sosial
+- 🐦 Twitter: [@username](https://twitter.com/username )
+- 💼 LinkedIn: [profile](https://linkedin.com/in/username )
+- 🕸️ Blog: [blog.kamu.com](https://blog.kamu.com )
