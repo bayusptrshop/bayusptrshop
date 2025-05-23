@@ -29,7 +29,8 @@ Worked as backend developer for an e-learning school system that manages courses
 
 - **Languages**: JavaScript, TypeScript, Python, PHP  
 - **Frameworks**: Angular, Vue.js, Laravel, Ionic  
-- **Tools**: Git, Docker, VS Code, RESTful API  
+- **Development Tools**: Git, Docker, VS Code  
+- **APIs & Services**: RESTful API, Firebase, Stripe API
 
 ## 🛠️ Proyek Favorit / Favorite Projects
 
