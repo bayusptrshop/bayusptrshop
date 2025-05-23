@@ -5,7 +5,7 @@ Suka dengan **JavaScript, Python, Machine Learning, dll**
 
 ## 📊 Aktivitas Terakhir:
 <!-- Activity Graph -->
-![Activity Chart](https://ghchart.rshaiq.com/github/ ${username}?size=medium)
+![Activity Chart](https://ghchart.rshaiq.com/github/bayusptrshop?size=medium)
 
 ## 🧩 Skill & Tools
 - 💻 Pemrograman: `Python`, `JavaScript`, `Go`
